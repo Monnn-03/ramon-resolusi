@@ -1,0 +1,8 @@
+RENCANA KONTEN RAMON
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP
+- Interview
+- Vlogs
